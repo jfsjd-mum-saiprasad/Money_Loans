@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(182, 202, 217);
+}
+.nform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: space-between;
+    border: 1px solid grey;
+    
+   
+}
+.btt1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 170px;
+    
+    
+}
